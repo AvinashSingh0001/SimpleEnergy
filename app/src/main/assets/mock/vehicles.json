@@ -1,0 +1,35 @@
+[
+  {
+    "id": "se-alpha-01",
+    "name": "Simple One",
+    "model": "Alpha Series",
+    "batteryPercent": 78,
+    "rangeKm": 96,
+    "online": true,
+    "speedKmh": 42,
+    "odometerKm": 12450,
+    "lastUpdatedEpochMs": 1728086400000
+  },
+  {
+    "id": "se-beta-02",
+    "name": "Simple Dot",
+    "model": "Beta Series",
+    "batteryPercent": 34,
+    "rangeKm": 41,
+    "online": false,
+    "speedKmh": 0,
+    "odometerKm": 8920,
+    "lastUpdatedEpochMs": 1728079200000
+  },
+  {
+    "id": "se-gamma-03",
+    "name": "Simple X",
+    "model": "Gamma Series",
+    "batteryPercent": 92,
+    "rangeKm": 118,
+    "online": true,
+    "speedKmh": 0,
+    "odometerKm": 22100,
+    "lastUpdatedEpochMs": 1728090000000
+  }
+]
